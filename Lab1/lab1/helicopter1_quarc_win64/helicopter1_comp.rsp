@@ -1,0 +1,7 @@
+-IC:\Users\javierra\Desktop\lab1
+-IC:\Users\javierra\Desktop\lab1\helicopter1_quarc_win64
+-I"C:\Program Files\MATLAB\R2020b\extern\include"
+-I"C:\Program Files\MATLAB\R2020b\simulink\include"
+-I"C:\Program Files\MATLAB\R2020b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2020b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\Quanser\QUARC\include"
