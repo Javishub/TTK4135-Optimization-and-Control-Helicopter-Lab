@@ -1,9 +1,6 @@
 % Initialization for the helicopter assignment in TTK4135.
 % Run this file before you execute QuaRC -> Build.
 
-% Updated spring 2018, Andreas L. Flåten
-% Updated Spring 2019, Joakim R. Andersen
-
 clear all;
 close all;
 clc;
