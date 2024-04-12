@@ -1,6 +1,6 @@
 % TTK4135 - Helicopter lab
 % Hints/template for problem 2.
-% Updated spring 2018, Andreas L. Flåten
+% NTNU template for helicopeter Lab/Modified 2024-03 by Javier
 
 %% Initialization and model definition
 init_lab4; % Change this to the init file corresponding to your helicopter
