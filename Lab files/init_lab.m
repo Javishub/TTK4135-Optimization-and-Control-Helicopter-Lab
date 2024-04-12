@@ -1,5 +1,6 @@
 % Initialization for the helicopter assignment in TTK4135.
 % Run this file before you execute QuaRC -> Build.
+% NTNU template/no modifications. 
 
 clear all;
 close all;
